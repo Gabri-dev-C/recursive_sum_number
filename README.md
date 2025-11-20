@@ -1,8 +1,9 @@
 ![C++](https://img.shields.io/badge/C++-Recursion-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-yellow)
+![Learning](https://img.shields.io/badge/Learning-C++-orange)
 
-## Somma i primi n numeri
+## Recursive sum number
 
 Implementazione ricorsiva dell'algoritmo di somma sei primi n numeri naturali (da 0 a n).
 
